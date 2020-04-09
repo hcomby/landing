@@ -1,0 +1,48 @@
+
+
+body {
+	font-family: 'Times', sherif;
+	font-size: 18px;
+
+}
+
+h1,h2,h3 {
+	font-family: 'Times', sans-sherif;
+	font-size: 35px;
+	text-align: center;
+}
+
+h2 {
+	color: black;
+}
+
+a {
+	text-decoration: none;
+	display: center;
+	font-family: 'Roboto';
+	width: 60px
+	height: 60px;
+}
+
+img {
+	text-align: center;
+	width: 120px;
+	height: 120px;
+
+}
+
+.center {
+	display: block;
+	margin: auto;
+}
+
+.card-grey {
+	background-color: rgb(240,240,240);
+	border-radius: 7px;
+	box-shadow:0px 3px 5px rgba(0,0,0,0.1);
+	padding: 30px;
+	text-align: center;
+}
+}
+
+

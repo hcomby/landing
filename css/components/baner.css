@@ -1,0 +1,18 @@
+.baner {
+	background-image: url("https://eurofilmfest-lille.com/wp-content/uploads/2020/01/photocouverturefb.jpg");
+	background-size: cover;
+	background-position: center;
+	padding: 150px;
+}
+
+.baner h1 {
+	color: white;
+	font-size: 40px;
+}
+
+.baner h2 {
+	color: rgb(230,230,230);
+	font-size: 30px
+	opacity: 0.95;
+}
+
